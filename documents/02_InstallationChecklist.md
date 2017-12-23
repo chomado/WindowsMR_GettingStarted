@@ -63,7 +63,7 @@ VS2017 インストールする時のオプション<br />![](images/icon/vs2017
 
 最新のバージョンではなく、
 
-* HoloLens アプリ開発の場合、[2017.1.2](https://unity3d.com/get-unity/download/archive)  の「Unity 2017.1.2」を入れてください。
+* HoloLens アプリ開発の場合、[2017.1.2](https://unity3d.com/get-unity/download/archive) を入れてください。
 * Immersive HMD アプリ開発の場合、[Unity 2017.2 MRTP 5](http://beta.unity3d.com/download/a07ad30bae31/download.html)を入れてください。
 
 HoloLens の場合：
