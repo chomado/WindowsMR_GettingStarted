@@ -52,7 +52,7 @@ Hyper-V の有効化
 
 #|HoloLens アプリ 開発用 PC|Immersive HMD 対応 アプリ 開発用PC|確認方法
 ----|----|----|----
-Unity<br />![](images/icon/unity.png)|[Unity 2017.1](https://unity3d.com/get-unity/download/archive)|[Unity 2017.2 MRTP 5](http://beta.unity3d.com/download/a07ad30bae31/download.html)|Unity Editor のウィンドウの左上に書いてある
+Unity<br />![](images/icon/unity.png)|[Unity 2017.1](https://unity3d.com/get-unity/download/archive)|[Unity 2017.2.1](https://unity3d.com/get-unity/download/archive)|Unity Editor のウィンドウの左上に書いてある
 Unity のインストールする時のオプション<br />![](images/icon/unity.png)|`Windows Store .NET Scripting Backend` にチェックを入れた状態でインストール|`Windows Store .NET Scripting Backend` にチェックを入れた状態でインストール|スクショ下に載せました
 Visual Studio 2017<br />![](images/icon/vs2017.png)|15.x|15.x|Visual Studio 2017 を起動 > メニューバーの `ヘルプ` (一番右) > `Microsoft Visual Studio のバージョン情報` で出てきたウィンドウの、2 行目 (例：`Version 15.5.2`)
 VS2017 インストールする時のオプション<br />![](images/icon/vs2017.png)|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>オプションの`10.0.15063` と `10.0.14393` の両方にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|Visual Studio のインストーラの「編集」から。スクショ下に載せました
@@ -63,10 +63,9 @@ VS2017 インストールする時のオプション<br />![](images/icon/vs2017
 
 最新のバージョンではなく、
 
-* HoloLens アプリ開発の場合、[2017.1.2](https://unity3d.com/get-unity/download/archive) を入れてください。
-* Immersive HMD アプリ開発の場合、[Unity 2017.2 MRTP 5](http://beta.unity3d.com/download/a07ad30bae31/download.html)を入れてください。
+* HoloLens アプリ開発の場合、[Unity 2017.1.2](https://unity3d.com/get-unity/download/archive) を入れてください。
+* Immersive HMD アプリ開発の場合、[Unity 2017.2.1](https://unity3d.com/get-unity/download/archive)を入れてください。
 
-HoloLens の場合：
 ![](images/02/unityin.png)
 
 HoloLens の場合も Immersive の場合も、    
