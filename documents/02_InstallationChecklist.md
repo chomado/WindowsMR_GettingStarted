@@ -55,7 +55,7 @@ Hyper-V の有効化
 Unity<br />![](images/icon/unity.png)|[Unity 2017.1](https://unity3d.com/get-unity/download/archive)|[Unity 2017.2 MRTP 5](http://beta.unity3d.com/download/a07ad30bae31/download.html)|Unity Editor のウィンドウの左上に書いてある
 Unity のインストールする時のオプション<br />![](images/icon/unity.png)|`Windows Store .NET Scripting Backend` にチェックを入れた状態でインストール|`Windows Store .NET Scripting Backend` にチェックを入れた状態でインストール|スクショ下に載せました
 Visual Studio 2017<br />![](images/icon/vs2017.png)|15.x|15.x|Visual Studio 2017 を起動 > メニューバーの `ヘルプ` (一番右) > `Microsoft Visual Studio のバージョン情報` で出てきたウィンドウの、2 行目 (例：`Version 15.5.2`)
-VS2017 インストールする時のオプション<br />![](images/icon/vs2017.png)|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>オプションの`10.0.15063` と `10.0.14393` の両方にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>オプションの`10.0.15063` と `10.0.14393` の両方にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|Visual Studio のインストーラの「編集」から。スクショ下に載せました
+VS2017 インストールする時のオプション<br />![](images/icon/vs2017.png)|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>オプションの`10.0.15063` と `10.0.14393` の両方にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|Visual Studio のインストーラの「編集」から。スクショ下に載せました
 
 ### Unity インストール
 
@@ -86,7 +86,7 @@ Windows 10 アプリ(正確に言うと`UWP アプリ`)です。
 
 まず、Visual Studio 2017 のインストーラから「編集」を選びます。
 
-そして **必ず** 以下の SDK にチェックを入れてから「変更」をクリックしてください。
+そして、`HoloLens アプリ開発`の時は、必ず、以下の SDK にチェックを入れてから「変更」をクリックしてください。
 - `10.0.15063`
 - `10.0.14393` (HoloLens の中に入っている Windows 10 がこのバージョン相当のため)
 
