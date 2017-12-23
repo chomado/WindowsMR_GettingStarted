@@ -76,6 +76,9 @@ HoloLens の場合も Immersive の場合も、
 
 ![](images/02/unity.png)
 
+ちなみに、Unity のバージョンについては、Microsoft 公式が出している開発便利ツールの `MixedRealityToolkit for Unity ` の、この[リリースページ](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を見て対応バージョンを見るのが一番正確です    
+[https://github.com/Microsoft/MixedRealityToolkit-Unity/releases]
+
 ## Visual Studio 2017 インストール
 
 Windows Mixed Reality (HoloLens も Immersive も) のアプリは    
