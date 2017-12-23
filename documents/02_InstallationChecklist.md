@@ -1,4 +1,4 @@
-# 02. 開発環境構築 (2017/12/23時点)
+# 02. Windows Mixed Reality 対応アプリ開発環境構築 (2017/12/23時点)
 
 基本的にはこちらに書いてあります    
 [Installation checklist for HoloLens / immersive headsets ](https://developer.microsoft.com/ja-jp/windows/mixed-reality/install_the_tools)
@@ -57,7 +57,7 @@ Unity のインストールする時のオプション<br />![](images/icon/unit
 Visual Studio 2017<br />![](images/icon/vs2017.png)|15.x|15.x|Visual Studio 2017 を起動 > メニューバーの `ヘルプ` (一番右) > `Microsoft Visual Studio のバージョン情報` で出てきたウィンドウの、2 行目 (例：`Version 15.5.2`)
 VS2017 インストールする時のオプション<br />![](images/icon/vs2017.png)|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>オプションの`10.0.15063` と `10.0.14393` の両方にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|<ol><li>`ユニバーサル Windows プラットフォーム開発`にチェック</li><li>`Unity によるゲーム開発`にチェック</li><li>オプションでUnityエディタ入れるのがデフォルトでチェック入っているけど外す</li></ol>|Visual Studio のインストーラの「編集」から。スクショ下に載せました
 
-### Unity インストール
+## Unity インストール
 
 3D アプリを開発するために、今回は Unity を使います。
 
@@ -77,7 +77,7 @@ HoloLens の場合も Immersive の場合も、
 
 ![](images/02/unity.png)
 
-### Visual Studio 2017 インストール
+## Visual Studio 2017 インストール
 
 Windows Mixed Reality (HoloLens も Immersive も) のアプリは    
 Windows 10 アプリ(正確に言うと`UWP アプリ`)です。
