@@ -2,6 +2,8 @@
 
 <strong>Windows Mixed Reality</strong> (以下「MR」) の始め方について、書いていけたらと思います。
 
+![Windows Mixed Reality](documents/images/readme/header.png)
+
 #|記事|HoloLens|Immersive
 ---|---|----|----
 01|MRヘッドセットを買ったら、まずやること|-|✔
